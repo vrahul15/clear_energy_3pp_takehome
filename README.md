@@ -2,7 +2,7 @@
 
 ## Candidate
 
-**Name:** Vankunavath Rahul
+**Name:** Vankanavath Rahul
 
 ---
 
