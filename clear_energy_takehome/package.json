@@ -1,0 +1,8 @@
+{
+  "name": "clear-energy-takehome",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
